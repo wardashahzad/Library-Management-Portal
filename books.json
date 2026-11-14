@@ -1,0 +1,11 @@
+[
+    {
+        "book_id": "111",
+        "title": "python",
+        "author": "james",
+        "category": "7",
+        "quantity": 1,
+        "available": 1,
+        "issued_to": []
+    }
+]
